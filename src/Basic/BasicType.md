@@ -7,7 +7,7 @@ Type:
 |3|long|64|3000000000L||
 |4|byte|8|0b1101||
 |5|float|32|1.1||
-|6|double|64|3.1415926|Double_POSITIVE_INFINITY<br>Double.NEGATIVEJNFINITY|
+|6|double|64|3.1415926|Double_POSITIVE_INFINITY<br>Double.NEGATIVE_INFINITY|
 |7|char|X|'c'<br>'\u1234'<br>'\n'||
 |8|boolean|X|true<br>false||
 
