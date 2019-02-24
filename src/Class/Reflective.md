@@ -1,0 +1,3 @@
+
+- getClass()
+- getName()
