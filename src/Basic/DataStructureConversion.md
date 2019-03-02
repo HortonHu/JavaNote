@@ -26,3 +26,9 @@ or
     list.toArray(new Integer[0]);
     list.toArray(new String[0]);
 ```
+
+
+## List to HashSet
+```
+    Set<String> dict = new HashSet<>(listOfString);
+```
