@@ -1,0 +1,1 @@
+- 多线程竞争race condition，非同步的操作可能会出问题。比如线程1在load到register1计算完要存回去的时候，可能被thread2打断，然后先存了thread2的值，接着又存下thread1的值，导致thread2的操作没有生效。
